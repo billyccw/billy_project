@@ -1,0 +1,3 @@
+Welcome to my git tutorial.
+Today we will learn how to get started with git.
+We start with the Basic Git workflow.
